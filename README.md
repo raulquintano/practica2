@@ -1,8 +1,8 @@
-# practica2
+# PRACTICA 2
 
 # Descripción
 Este código permite al usuario realizar una aproximación al número pi mediante el método de Montecarlo 
-de una manera recursiva
+de una manera recursiva.
 
 # Licencia
 Copyright [2024] [Raul Quintano Vazquez]
@@ -18,3 +18,20 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+## Estado del proyecto
+
+Finalizado. Listo para su uso.
+
+## Instalación
+
+Clona el repositorio de este proyecto de GitHub y péguelo en el directorio que desee.
+https://github.com/raulquintano/practica2.git
+
+
+## Funcionamiento
+
+Este programa genera mil  puntos aleatorios y utiliza recursión para contar cuántos de estos puntos caen dentro del círculo unitario. Luego, utiliza la fórmula necesaria para aproximar el valor de π y lo muestra por consola.
+
+
